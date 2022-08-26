@@ -11,7 +11,7 @@ Generate the UI prototype with the prototyping tools such as Figma, Adobe XD, Ma
 
 ## Task
 1. Create a prototype based on below persona, user story and acceptance crieteria
-2. Share the prototype URL back to recuitment_mywave@mywave.biz
+2. Share the prototype URL back to pssd_management@mywave.biz
 3. Do share your justification on your design.   
 
 ### Persona 1: 
