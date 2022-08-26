@@ -46,7 +46,7 @@ Generate the UI prototype with the prototyping tools such as Figma, Adobe XD, Ma
 
 
 ### User Story 
-1. Tery want to view the salary of the operator so that he can answer the history salary information to the employee request. 
+1. Terry want to view the salary of the operator so that he can answer the history salary information to the employee request. 
 2. Terry want to view the operator emergency contact so that he can contact them in case any urgent matter
 3. Terry want to view the assets borrowed by the operator so that he can ask them to return before resigned.
 4. Terry want to export the transportation information and pass to the operator so that he can know the vehicle number, pick up point and pick up zone to wait for the pick up.
