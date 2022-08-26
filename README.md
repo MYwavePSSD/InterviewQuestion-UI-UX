@@ -1,4 +1,4 @@
-# UI & UX coding test
+# UI & UX prototyping test
 
 Generate the UI prototype with the prototyping tools such as Figma, Adobe XD, Marvel or etc.
 
